@@ -1,24 +1,3 @@
-####################################
-# 创建者：v2rayse.com
-# 客户端：Clash
-# 创建时间：02-07-2023 13:45:28
-# 使用模版：V2RaySE 默认模版
-# 节点数量：273
-####################################
-mixed-port: 7890
-allow-lan: true
-log-level: info
-external-controller: 0.0.0.0:9090
-dns:
-  enabled: true
-  nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-  fallback:
-    - 8.8.8.8
-    - 8.8.4.4
-    - tls://1.0.0.1:853
-    - tls://dns.google:853
 vmess://eyJhZGQiOiJ2Yy0xMjkuMTUxLjIxNi41MC5uaXAuaW8iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiJlMmNhYTUyZC0xN2VhLTMyMzEtYTQxMS1jNTQzZjhhNjUzNGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7jwn4eqIDEyOS4xNTEuMjE2LjUwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ2Yy0xMjkuMTUxLjIzNi4xNTcubmlwLmlvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiMWNmMDBjNGQtYzc4OS0zYWNmLWE2YjEtMzI1MjA4NzE4YmMyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5IiwicG9ydCI6IjgwIiwicHMiOiLwn4er8J+HtyAxMjkuMTUxLjIzNi4xNTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ2Yy0xNTIuNjcuNzguMTcxLm5pcC5pbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6IjkxMjMyMTY2LTk2OTUtMzk0NS05Zjk1LTBhOWIwMjY5YjNiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii92MnJheSIsInBvcnQiOiI4MCIsInBzIjoi8J+HqPCfh60gMTUyLjY3Ljc4LjE3MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
