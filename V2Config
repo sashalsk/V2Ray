@@ -1,24 +1,3 @@
-####################################
-# 创建者：v2rayse.com
-# 客户端：Clash
-# 创建时间：02-07-2023 13:45:28
-# 使用模版：V2RaySE 默认模版
-# 节点数量：273
-####################################
-mixed-port: 7890
-allow-lan: true
-log-level: info
-external-controller: 0.0.0.0:9090
-dns:
-  enabled: true
-  nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-  fallback:
-    - 8.8.8.8
-    - 8.8.4.4
-    - tls://1.0.0.1:853
-    - tls://dns.google:853
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@158.51.121.154:2376#%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#%D0%A7%D0%B5%D1%85%D0%B8%D1%8F
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@193.108.118.34:8091#%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
