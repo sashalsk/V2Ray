@@ -1,7 +1,7 @@
-###################################
+####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：20-07-2023 11:58:22
+# 创建时间：20-07-2023 14:30:31
 # 使用模版：V2RaySE 默认模版
 # 节点数量：533
 ####################################
@@ -28,31 +28,31 @@ proxies:
   - {"name":"🇪🇪37.252.5.234","type":"vmess","server":"sw-37.252.5.234.nip.io","port":443,"cipher":"auto","uuid":"8989986e-2495-405b-8a46-d1720318e188","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇳🇴195.54.170.225","type":"vmess","server":"sw-195.54.170.225.nip.io","port":443,"cipher":"auto","uuid":"b42fea65-0046-4594-8a2f-8d38fca87a4b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇵🇹94.131.10.5","type":"vmess","server":"sw-94.131.10.5.nip.io","port":443,"cipher":"auto","uuid":"88d476c1-48f7-4d3d-a0e6-acccbff02db6","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"internet.life.com.by"}}}
-  - {"name":"🇨🇭5.182.36.189","type":"vless","server":"it-94.131.3.244.nip.io","port":443,"uuid":"921ed99e-4528-4ddc-a48c-5efb87f3f7e4","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇨🇭5.182.36.189","type":"vmess","server":"it-94.131.3.244.nip.io","port":443,"uuid":"921ed99e-4528-4ddc-a48c-5efb87f3f7e4","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇷🇴82.117.255.92","type":"vmess","server":"sw-82.117.255.92.nip.io","port":443,"cipher":"auto","uuid":"b91bf074-faa1-4ce2-9e9e-e9150a86d0cf","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇱🇻45.133.216.177","type":"vless","server":"it-45.142.215.104.nip.io","port":443,"uuid":"2d2fc479-b615-44e5-af9d-ff06ca8d9385","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇱🇻45.133.216.177","type":"vmess","server":"it-45.142.215.104.nip.io","port":443,"uuid":"2d2fc479-b615-44e5-af9d-ff06ca8d9385","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇱🇻195.123.210.166","type":"vmess","server":"sw-195.123.210.166.nip.io","port":443,"cipher":"auto","uuid":"4f2f9a7d-c67e-4852-9333-c740a012f07a","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇱🇻94.131.104.152","type":"vless","server":"it-94.131.104.152.nip.io","port":443,"uuid":"874e61dc-5fbc-471a-83a6-e07075e93d91","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇱🇻94.131.104.152","type":"vmess","server":"it-94.131.104.152.nip.io","port":443,"uuid":"874e61dc-5fbc-471a-83a6-e07075e93d91","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇸🇮192.71.244.167","type":"vmess","server":"sw-192.71.244.167.nip.io","port":443,"cipher":"auto","uuid":"05eca6bd-dd0a-484f-9711-19ab7fef5848","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇳🇱94.131.106.196","type":"vless","server":"it-94.131.106.196.nip.io","port":443,"uuid":"abec9e1f-2265-4a7a-b6fd-f3e2f91df9dc","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇳🇱94.131.106.196","type":"vmess","server":"it-94.131.106.196.nip.io","port":443,"uuid":"abec9e1f-2265-4a7a-b6fd-f3e2f91df9dc","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇳🇱185.162.235.250","type":"vmess","server":"vc-185.162.235.250.nip.io","port":2054,"cipher":"auto","uuid":"6f117af4-cd52-40f8-9236-7c5e3f357cc8","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/socket.io","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇷🇺193.124.112.85","type":"vmess","server":"s1.2b2.top","port":50501,"cipher":"auto","uuid":"b479ffd3-5809-40a1-b789-12652cc8084d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/poison","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇸🇬89.116.38.185","type":"vmess","server":"vc-89.116.38.185.nip.io","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇭🇰20.24.99.46","type":"vmess","server":"vc-20.24.99.46.nip.io","port":50504,"cipher":"auto","uuid":"b479ffd3-5809-40a1-b789-12652cc8084d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/poison","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇸🇬159.223.83.87","type":"vmess","server":"vc-159.223.83.87.nip.io","port":80,"cipher":"auto","uuid":"533724ad-58ef-4147-88dc-9da523c15fc4","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/anti13.zingfast.vn","headers":{"host":"internet.life.com.by"}}}
-  - {"name":"🇨🇦148.113.140.175","type":"vless","server":"tvp-148.113.140.175.nip.io","port":56361,"uuid":"13350fbf-db05-4223-85f8-f179a4f6e9e5","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇨🇦15.235.40.159","type":"vless","server":"15.235.40.159","port":54735,"uuid":"46e4c81d-148f-47e1-a44b-fd9f969bdd0d","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇨🇦148.113.136.43","type":"vless","server":"148.113.136.43","port":13368,"uuid":"eb2cd4a1-adbf-49b5-9eeb-92ac9ee96ecc","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇨🇦15.235.41.252","type":"vless","server":"15.235.41.252","port":41971,"uuid":"1faff569-9c12-4ef0-85d1-47ada218f37c","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇨🇦15.235.40.106","type":"vless","server":"15.235.40.106","port":52404,"uuid":"df4eaba7-76fd-4146-acc8-eff39035b0db","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇨🇦148.113.140.175","type":"vmess","server":"tvp-148.113.140.175.nip.io","port":56361,"uuid":"13350fbf-db05-4223-85f8-f179a4f6e9e5","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇨🇦15.235.40.159","type":"vmess","server":"15.235.40.159","port":54735,"uuid":"46e4c81d-148f-47e1-a44b-fd9f969bdd0d","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇨🇦148.113.136.43","type":"vmess","server":"148.113.136.43","port":13368,"uuid":"eb2cd4a1-adbf-49b5-9eeb-92ac9ee96ecc","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇨🇦15.235.41.252","type":"vmess","server":"15.235.41.252","port":41971,"uuid":"1faff569-9c12-4ef0-85d1-47ada218f37c","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇨🇦15.235.40.106","type":"vmess","server":"15.235.40.106","port":52404,"uuid":"df4eaba7-76fd-4146-acc8-eff39035b0db","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇨🇦148.113.165.104","type":"vmess","server":"vc-148.113.165.104.nip.io","port":24593,"cipher":"auto","uuid":"b99d13de-d97b-472a-c77a-0dfbcbd78cee","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇨🇦55-23-26-239-163","type":"vmess","server":"vc-55-23-26-239-163.nip.io","port":18420,"cipher":"auto","uuid":"65578c09-f23e-49cc-abee-4ad2a1850f9a","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇨🇦15.235.48.92","type":"vmess","server":"sw-15.235.48.92.nip.io","port":8443,"cipher":"auto","uuid":"c295b9ac-3ae4-4aa2-aed7-f12dd7d04f0b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇫🇷162.19.70.132","type":"vless","server":"162.19.70.132","port":50628,"uuid":"b0dff10f-d9ae-4f96-a7b8-d589e6788f3f","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇫🇷162.19.70.132","type":"vmess","server":"162.19.70.132","port":50628,"uuid":"b0dff10f-d9ae-4f96-a7b8-d589e6788f3f","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇫🇷51.158.238.229","type":"vmess","server":"sw-51.158.238.229.nip.io","port":443,"cipher":"auto","uuid":"b060a4e1-22b7-4e0f-91fb-93496a1881ae","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇫🇷51.158.238.117","type":"vmess","server":"sw-51.158.238.117.nip.io","port":443,"cipher":"auto","uuid":"4e3ee39d-cb8a-473e-ba86-3ec41372f9d6","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇫🇷51.159.183.138","type":"vmess","server":"sw-51.159.183.138.nip.io","port":1950,"cipher":"auto","uuid":"4bd09859-c671-49a2-80c4-83d77264946d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇫🇷162.19.70.121","type":"vless","server":"tvp-162.19.70.121.nip.io","port":21139,"uuid":"82f6046b-6766-4f4c-bf82-a44b8a09d2b5","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇫🇷162.19.70.121","type":"vmess","server":"tvp-162.19.70.121.nip.io","port":21139,"uuid":"82f6046b-6766-4f4c-bf82-a44b8a09d2b5","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇫🇷141.95.75.148","type":"vmess","server":"sw-141.95.75.148.nip.io","port":443,"cipher":"auto","uuid":"ce76d32e-3bc7-4a4f-bf2c-abddb893bed7","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇫🇷135.125.134.177","type":"vmess","server":"sw-135.125.134.177.nip.io","port":443,"cipher":"auto","uuid":"d4734bd8-906b-4426-b9ff-9dbc388d56da","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇫🇷135.125.135.241","type":"vmess","server":"sw-135.125.135.241.nip.io","port":443,"cipher":"auto","uuid":"b20b983c-329d-4fe2-a749-f9748d547c5f","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
@@ -60,7 +60,7 @@ proxies:
   - {"name":"🇫🇷51.195.209.132","type":"vmess","server":"vc-51.195.209.132.nip.io","port":2002,"cipher":"auto","uuid":"a853d91e-c28b-42c8-ee08-a45771005cc2","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇬🇧159.65.17.214","type":"vmess","server":"159.65.17.214","port":8880,"cipher":"auto","uuid":"46b2d904-e6e7-4b80-a743-8554e725328a","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇬🇧198.244.231.79","type":"vmess","server":"mt-198.244.231.79.nip.io","port":443,"cipher":"auto","uuid":"bcb78528-ee4f-4622-8d81-cfb1eae0be52","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇺🇸USA","type":"vless","server":"dl-8.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸USA","type":"vmess","server":"dl-8.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇫🇮135.181.248.129","type":"vmess","server":"135.181.248.129","port":80,"cipher":"auto","uuid":"36ff3807-32c5-401e-a632-704439687c0a","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇫🇮91.107.172.87","type":"vmess","server":"91.107.172.87","port":80,"cipher":"auto","uuid":"012a0949-c7fd-4b0d-8b9c-cec26b230e9c","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇫🇮65.21.53.207","type":"vmess","server":"65.21.53.207","port":2087,"cipher":"auto","uuid":"465a14ba-c8b4-4b22-8d28-7f1615cc37d6","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
@@ -131,13 +131,13 @@ proxies:
   - {"name":"🇩🇪138.201.91.103","type":"vmess","server":"trk-138.201.91.103.nip.io","port":33995,"cipher":"auto","uuid":"05b83d67-2d4d-4dc8-fbb1-fcd248f92f26","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇩🇪135.181.101.37","type":"vmess","server":"trk-135.181.101.37.nip.io","port":443,"cipher":"auto","uuid":"67baab3d-933d-4b5e-fa8d-ce5ff5778dbf","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇩🇪128.140.41.123 (1)","type":"vmess","server":"v2n-128.140.41.123.nip.io","port":443,"cipher":"auto","uuid":"b26a055b-7d8f-4129-e694-a5c39c703f64","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇩🇪54.37.79.174","type":"vless","server":"54.37.79.174","port":45770,"uuid":"3a9cc50d-fa28-4c18-a4f9-ba256d44d95e","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇩🇪54.37.79.174","type":"vmess","server":"54.37.79.174","port":45770,"uuid":"3a9cc50d-fa28-4c18-a4f9-ba256d44d95e","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇩🇪209.38.245.38","type":"vmess","server":"hx-209.38.245.38.nip.io","port":80,"cipher":"auto","uuid":"900f1ecf-8f8f-4b19-c1d9-1633605e7e83","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇩🇪209.38.245.39","type":"vmess","server":"hx-209-38-245-39.nip.io","port":80,"cipher":"auto","uuid":"900f1ecf-8f8f-4b19-c1d9-1633605e7e83","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇩🇪209.38.233.127","type":"vmess","server":"hx-209-38-233-127.nip.io","port":80,"cipher":"auto","uuid":"900f1ecf-8f8f-4b19-c1d9-1633605e7e83","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇩🇪89.116.38.204","type":"vmess","server":"vc-89.116.38.204.nip.io","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇩🇪135.125.135.119","type":"vmess","server":"sw-135.125.135.119.nip.io","port":443,"cipher":"auto","uuid":"6511e996-0f17-4eea-8cca-f6ce28102c0f","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇺🇸USA-1","type":"vless","server":"dl-7.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸USA-1","type":"vmess","server":"dl-7.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇺🇸89.116.38.209","type":"vmess","server":"sw-89.116.38.209.nip.io","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸89.116.38.198","type":"vmess","server":"sw-89.116.38.198.nip.io","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇫🇮5.181.20.32","type":"vmess","server":"sw-5.181.20.32.nip.io","port":443,"cipher":"auto","uuid":"a02a8843-6af4-40ae-a5b5-f7f862cdfb43","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
@@ -172,11 +172,11 @@ proxies:
   - {"name":"🇺🇸89.116.38.188","type":"vmess","server":"sw-89.116.38.188.nip.io","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸89.116.38.177","type":"vmess","server":"sw-89.116.38.177.nip.io","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸47.254.89.211","type":"vmess","server":"47.254.89.211","port":80,"cipher":"auto","uuid":"203b2ab2-4994-4193-8193-6631a575edb0","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/GSoTl9ZoYG5V2R0k4tUTGI8k","headers":{"host":"internet.life.com.by"}}}
-  - {"name":"🇺🇸18.205.25.132","type":"vless","server":"dl-1.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸54.92.217.218","type":"vless","server":"dl-2.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸18.212.222.205","type":"vless","server":"dl-4.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸54.234.56.172","type":"vless","server":"dl-5.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸54.234.56.172 (1)","type":"vless","server":"dl-6.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸18.205.25.132","type":"vmess","server":"dl-1.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸54.92.217.218","type":"vmess","server":"dl-2.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸18.212.222.205","type":"vmess","server":"dl-4.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸54.234.56.172","type":"vmess","server":"dl-5.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸54.234.56.172 (1)","type":"vmess","server":"dl-6.cdnup.online","port":8080,"uuid":"9e1a11a4-5833-4cf9-a4e4-4833a78be0c9","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇺🇸47.254.92.41","type":"vmess","server":"vc-25-47-254-92-41.nip.io","port":80,"cipher":"auto","uuid":"4bf9b7e0-85d1-4a59-9a29-e6619dcd7c50","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/pSAXxD8Ib7FZloqUMG","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇺🇸47.89.231.138","type":"vmess","server":"vc-96-47-89-231-138.nip.io","port":80,"cipher":"auto","uuid":"82f58397-480e-4975-b3ec-fea904dc5912","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/O0emfe0pBfYovpz5526rhq","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇺🇸47.89.231.138 (1)","type":"vmess","server":"47.89.231.138","port":80,"cipher":"auto","uuid":"82f58397-480e-4975-b3ec-fea904dc5912","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/O0emfe0pBfYovpz5526rhq","headers":{"host":"internet.life.com.by"}}}
@@ -188,28 +188,28 @@ proxies:
   - {"name":"🇺🇸158.101.7.8","type":"vmess","server":"158.101.7.8","port":80,"cipher":"auto","uuid":"95b45c49-f5c0-4959-bb64-2b8fbc4a869c","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇺🇸45.131.248.228","type":"vmess","server":"45.131.248.228","port":59102,"cipher":"auto","uuid":"ac027362-c988-4670-f78f-021b5be6f4e3","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"internet.life.com.by"}}}
   - {"name":"🇺🇸45.131.248.140","type":"vmess","server":"45.131.248.140","port":50068,"cipher":"auto","uuid":"557e532e-de4a-4b3e-9fb2-5d355ccb5da9","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"internet.life.com.by"}}}
-  - {"name":"🇺🇸167.71.80.25","type":"vless","server":"167.71.80.25","port":12889,"uuid":"85ebaf57-40e6-4d1b-8da6-23469d51aaa1","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸104.248.235.251","type":"vless","server":"104.248.235.251","port":25417,"uuid":"51faf3bb-c22c-431d-b03b-8f429603176d","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸206.189.177.52","type":"vless","server":"206.189.177.52","port":18988,"uuid":"4fbc5811-f723-4883-bc41-d5c54fa98e9a","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸143.244.150.41","type":"vless","server":"143.244.150.41","port":45470,"uuid":"f7dbcb73-ffa4-448d-8fc5-71494986a477","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸159.65.235.208","type":"vless","server":"159.65.235.208","port":27009,"uuid":"99e4d8f8-5b46-48d6-96e6-2351bd274c84","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸159.203.182.27","type":"vless","server":"159.203.182.27","port":23231,"uuid":"ea0ea00a-62b4-4cf4-af7d-ca41480e1eb8","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸143.198.127.224","type":"vless","server":"143.198.127.224","port":38159,"uuid":"5288d09c-1714-4304-a15a-32398aefe0c7","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸192.241.141.91","type":"vless","server":"192.241.141.91","port":26414,"uuid":"99e8ca61-e27a-4130-bdab-bb3129eea2fa","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸5.161.100.201","type":"vless","server":"5.161.100.201","port":54952,"uuid":"d800961a-3738-43c8-8f4f-95f243d9ed2b","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸159.89.230.208","type":"vless","server":"tvp-159.89.230.208.nip.io","port":22001,"uuid":"a9099366-411c-4b4b-a225-f99087a68741","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸165.22.15.55","type":"vless","server":"tvp-165.22.15.55.nip.io","port":18901,"uuid":"1cb29018-1f4c-4086-bacf-62105a09553b","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸142.93.52.96","type":"vless","server":"tvp-142.93.52.96.nip.io","port":51948,"uuid":"45a425d0-f75f-4d66-b1ea-12b2ba468cfc","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸134.209.70.98","type":"vless","server":"tvp-134.209.70.98.nip.io","port":50562,"uuid":"8535eedd-be43-4b42-947f-f23b7b892507","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸68.183.19.126","type":"vless","server":"tvp-68.183.19.126.nip.io","port":33795,"uuid":"0158f727-02ef-4b48-a028-defbd5964923","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸137.184.107.139","type":"vless","server":"tvp-137.184.107.139.nip.io","port":47992,"uuid":"e761f33f-e999-4f35-a3f4-f09efedac596","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸143.198.167.238","type":"vless","server":"tvp-143.198.167.238.nip.io","port":52723,"uuid":"769f3f04-0802-4f7e-8f84-d0a77f18b9ea","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸137.184.61.180","type":"vless","server":"tvp-137.184.61.180.nip.io","port":41563,"uuid":"8b5a0840-be4e-4fcf-be42-60a2433f295c","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸143.244.153.54","type":"vless","server":"tvp-143.244.153.54.nip.io","port":20239,"uuid":"063b01b9-6beb-4359-9e6d-c20d99accd7e","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸204.48.21.135","type":"vless","server":"tvp-204.48.21.135.nip.io","port":55627,"uuid":"e211ed83-20d3-4b68-a963-e9fbaa997c77","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸67.205.137.43","type":"vless","server":"tvp-67.205.137.43.nip.io","port":23622,"uuid":"3c2b9e15-106c-4275-bd4d-b019cf1c0cf7","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸137.184.142.9","type":"vless","server":"tvp-137.184.142.9.nip.io","port":52516,"uuid":"37756e56-50fa-4c7d-b198-d6f308bf5520","servername":"internet.life.com.by","network":"tcp"}
-  - {"name":"🇺🇸157.230.228.141","type":"vless","server":"tvp-157.230.228.141.nip.io","port":52341,"uuid":"6b9a4af4-50a6-4588-8433-cf36908ae5f8","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸167.71.80.25","type":"vmess","server":"167.71.80.25","port":12889,"uuid":"85ebaf57-40e6-4d1b-8da6-23469d51aaa1","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸104.248.235.251","type":"vmess","server":"104.248.235.251","port":25417,"uuid":"51faf3bb-c22c-431d-b03b-8f429603176d","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸206.189.177.52","type":"vmess","server":"206.189.177.52","port":18988,"uuid":"4fbc5811-f723-4883-bc41-d5c54fa98e9a","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸143.244.150.41","type":"vmess","server":"143.244.150.41","port":45470,"uuid":"f7dbcb73-ffa4-448d-8fc5-71494986a477","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸159.65.235.208","type":"vmess","server":"159.65.235.208","port":27009,"uuid":"99e4d8f8-5b46-48d6-96e6-2351bd274c84","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸159.203.182.27","type":"vmess","server":"159.203.182.27","port":23231,"uuid":"ea0ea00a-62b4-4cf4-af7d-ca41480e1eb8","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸143.198.127.224","type":"vmess","server":"143.198.127.224","port":38159,"uuid":"5288d09c-1714-4304-a15a-32398aefe0c7","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸192.241.141.91","type":"vmess","server":"192.241.141.91","port":26414,"uuid":"99e8ca61-e27a-4130-bdab-bb3129eea2fa","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸5.161.100.201","type":"vmess","server":"5.161.100.201","port":54952,"uuid":"d800961a-3738-43c8-8f4f-95f243d9ed2b","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸159.89.230.208","type":"vmess","server":"tvp-159.89.230.208.nip.io","port":22001,"uuid":"a9099366-411c-4b4b-a225-f99087a68741","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸165.22.15.55","type":"vmess","server":"tvp-165.22.15.55.nip.io","port":18901,"uuid":"1cb29018-1f4c-4086-bacf-62105a09553b","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸142.93.52.96","type":"vmess","server":"tvp-142.93.52.96.nip.io","port":51948,"uuid":"45a425d0-f75f-4d66-b1ea-12b2ba468cfc","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸134.209.70.98","type":"vmess","server":"tvp-134.209.70.98.nip.io","port":50562,"uuid":"8535eedd-be43-4b42-947f-f23b7b892507","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸68.183.19.126","type":"vmess","server":"tvp-68.183.19.126.nip.io","port":33795,"uuid":"0158f727-02ef-4b48-a028-defbd5964923","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸137.184.107.139","type":"vmess","server":"tvp-137.184.107.139.nip.io","port":47992,"uuid":"e761f33f-e999-4f35-a3f4-f09efedac596","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸143.198.167.238","type":"vmess","server":"tvp-143.198.167.238.nip.io","port":52723,"uuid":"769f3f04-0802-4f7e-8f84-d0a77f18b9ea","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸137.184.61.180","type":"vmess","server":"tvp-137.184.61.180.nip.io","port":41563,"uuid":"8b5a0840-be4e-4fcf-be42-60a2433f295c","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸143.244.153.54","type":"vmess","server":"tvp-143.244.153.54.nip.io","port":20239,"uuid":"063b01b9-6beb-4359-9e6d-c20d99accd7e","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸204.48.21.135","type":"vmess","server":"tvp-204.48.21.135.nip.io","port":55627,"uuid":"e211ed83-20d3-4b68-a963-e9fbaa997c77","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸67.205.137.43","type":"vmess","server":"tvp-67.205.137.43.nip.io","port":23622,"uuid":"3c2b9e15-106c-4275-bd4d-b019cf1c0cf7","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸137.184.142.9","type":"vmess","server":"tvp-137.184.142.9.nip.io","port":52516,"uuid":"37756e56-50fa-4c7d-b198-d6f308bf5520","servername":"internet.life.com.by","network":"tcp"}
+  - {"name":"🇺🇸157.230.228.141","type":"vmess","server":"tvp-157.230.228.141.nip.io","port":52341,"uuid":"6b9a4af4-50a6-4588-8433-cf36908ae5f8","servername":"internet.life.com.by","network":"tcp"}
   - {"name":"🇨🇿143.244.58.102","type":"ss","server":"143.244.58.102","port":443,"password":"","cipher":"aes-256-cfb"}
   - {"name":"🇨🇿212.102.38.41","type":"ss","server":"212.102.38.41","port":443,"password":"asdKkaskJKfnsa","cipher":"aes-256-cfb"}
   - {"name":"🇫🇷51.159.221.219","type":"ss","server":"51.159.221.219","port":443,"password":"asdKkaskJKfnsa","cipher":"aes-256-cfb"}
