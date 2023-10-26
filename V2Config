@@ -686,4 +686,4 @@ trojan://your_password@16.171.12.136:443/?type=tcp&security=tls&sni=aws-se-stock
 trojan://your_password@15.181.199.219:443/?type=tcp&security=tls&sni=aws-us-dallas-1.f1rocketnode.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20339
 trojan://telegram-id-directvpn@13.36.24.238:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%20113
 trojan://telegram-id-directvpn@13.53.223.100:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%204
-trojan://VpRuqFDCJo@138.2.234.225:45555/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20340
+trojan://VpRuqFDCJo@138.2.234.225:45555/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20340 
